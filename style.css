@@ -1,0 +1,56 @@
+body {
+    background-color: #056f7b;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    background-color: #b2c5c7;
+    color: #060202;
+    text-align: left;
+}
+
+.riga {
+    font-weight: 600;
+    margin-right: 0.5rem;
+}
+
+.page85 {
+    border: solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0f0f0;
+    width: 430px; 
+    border-radius: 7%;
+}
+
+.page86 {
+    border: solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0f0f0;
+    width: 430px; 
+    border-radius: 7%;
+}
+
+.page89 {
+    border: solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0f0f0;
+    width: 430px; 
+    border-radius: 7%;
+}
+
+.description {
+    border: solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0f0f0;
+    width: 800px; 
+    border-radius: 7%;
+}
+
+
+
